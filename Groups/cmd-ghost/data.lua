@@ -1,0 +1,1 @@
+CMD_GHOST = { name = "Command ghost", category = "command" }
